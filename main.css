@@ -1,0 +1,51 @@
+ body {
+      
+      background-color:cadetblue;
+      
+      color:#5f9ea0;
+      
+    
+     text-align:left;
+    }
+     
+    h1 {
+      
+   background-color:yellow;
+  
+     color:black;
+      
+  }
+  
+    h2 {
+      
+  color:black;
+      
+  }
+    p {
+     
+      
+  color:black; }
+      
+  
+   #deneme { border-style: solid;
+   
+    border-color: crimson;
+
+   border-width: 3px;
+    
+    width: 250px;
+    height: 20px;
+    
+   }
+   
+   ul {
+     
+    
+  color:black;
+      
+  }
+    ol {
+     
+  color:black;
+      
+  }
